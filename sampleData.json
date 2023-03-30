@@ -1,0 +1,38 @@
+[
+  {
+  "name": "Marcus Richardson",
+  "email": "marcus.richardson@example.com",
+  "phone": "020 8812 1468",
+  "jobTitle": "Software Engineer",
+  "imageUrl": "https://randomuser.me/api/portraits/men/60.jpg"
+},
+{
+  "name": "Stella Cruz",
+  "email": "stella.cruz@example.com",
+  "phone": "011-944-5006",
+  "jobTitle": "Data Analyst",
+  "imageUrl": "https://randomuser.me/api/portraits/women/46.jpg"
+},
+  {
+  "name": "Jordan Phillips",
+  "email": "jordan.phillips@example.com",
+  "phone": "(222)-750-1946",
+  "jobTitle": "Sales Representative",
+  "imageUrl": "https://randomuser.me/api/portraits/men/87.jpg"
+},
+  {
+    "name": "Alice Parker",
+    "email": "alice.parker@example.com",
+    "phone": "071-987-9589",
+    "jobTitle": "Human Resources Manager",
+    "imageUrl": "https://randomuser.me/api/portraits/women/53.jpg"
+  },
+  {
+    "name": "Tyler Wright",
+    "email": "tyler.wright@example.com",
+    "phone": "09-2223-2448",
+    "jobTitle": "Marketing Manager",
+    "imageUrl": "https://randomuser.me/api/portraits/men/49.jpg"
+  }
+
+]
